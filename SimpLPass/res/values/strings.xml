@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpLPass</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ui_profile">Choose a Profile</string>
+    <string name="app_title">SimpLPass</string>
+    <string-array name="test_profilelist">
+        <item >One</item>
+        <item >Two</item>
+        <item >Three</item>
+        <item >Four</item>
+        <item >Five</item>
+    </string-array>
+    <string name="ui_login">Go</string>
+
+</resources>
